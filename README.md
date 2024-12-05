@@ -91,7 +91,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - LinkedIn: [Phinihas Gandi](https://www.linkedin.com/in/phinihas-gandi-b8b25b1b2/)
 - Twitter: [@GandiPhinihas](https://x.com/GandiPhinihas)
 - Instagram: [@phinihasgandi](https://www.instagram.com/phinihasgandi/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/phinihas/personal-portfolio/issues).
